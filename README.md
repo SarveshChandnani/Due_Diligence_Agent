@@ -47,7 +47,7 @@ The goal was to move beyond generic RAG and build something that actually thinks
 
 ### 1. Clone & Setup
 
-git clone https://github.com/SarveshChandnani/Due_Delligence_Agent
+git clone https://github.com/SarveshChandnani/Due_Diligence_Agent
 
 python -m venv .venv
 .\.venv\Scripts\activate    # Windows

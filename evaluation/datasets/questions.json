@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "difficulty": "Easy",
+    "category": "Company",
+    "question": "When was Zepto founded?"
+  },
+  {
+    "id": 2,
+    "difficulty": "Easy",
+    "category": "Business Model",
+    "question": "What are Zepto's primary revenue streams?"
+  },
+
+  {
+    "id": 3,
+    "difficulty": "Medium",
+    "category": "Business Model",
+    "question": "Explain the unit economics of a mature dark store."
+  },
+  {
+    "id": 4,
+    "difficulty": "Medium",
+    "category": "Competition",
+    "question": "How does Zepto differentiate itself from Blinkit and Swiggy Instamart?"
+  },
+  {
+    "id": 5,
+    "difficulty": "Hard",
+    "category": "Financial Analysis",
+    "question": "How do Zepto's projected improvements in EBITDA depend on operational efficiency?"
+  },
+  {
+    "id": 6,
+    "difficulty": "Hard",
+    "category": "Business Strategy",
+    "question": "How do Zepto's revenue streams contribute to long-term profitability?"
+  }
+]

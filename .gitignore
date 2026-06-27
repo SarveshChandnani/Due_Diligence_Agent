@@ -3,6 +3,8 @@ myenv/
 venv/
 .env
 
+.deepeval/
+
 # Chroma vector database
 chroma_db/
 

@@ -1,0 +1,16 @@
+{
+    "total_questions": 6,
+    "successful": 6,
+    "failed": 0,
+    "success_rate": 100.0,
+    "metric_averages": {
+        "FaithfulnessMetric": 0.942,
+        "AnswerRelevancyMetric": 1.0,
+        "HallucinationMetric": 0.467
+    },
+    "metric_pass_rate": {
+        "FaithfulnessMetric": 100.0,
+        "AnswerRelevancyMetric": 100.0,
+        "HallucinationMetric": 66.67
+    }
+}

@@ -35,5 +35,11 @@
     "difficulty": "Hard",
     "category": "Business Strategy",
     "question": "How do Zepto's revenue streams contribute to long-term profitability?"
+  },
+   {
+    "id": 7,
+    "difficulty": "Medium",
+    "category": "Team",
+    "question": "Describe the experience of Zepto's senior leadership team."
   }
 ]

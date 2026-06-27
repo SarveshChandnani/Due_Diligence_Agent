@@ -1,39 +1,66 @@
-# Python virtual environments
+# ============================
+# Python Virtual Environments
+# ============================
 myenv/
 venv/
+.venv/
 .env
 
-.deepeval/
-
-# Chroma vector database
-chroma_db/
-
-# Temporary uploads
-temp_uploads/
-
-# Python cache
+# ============================
+# Python Cache
+# ============================
 __pycache__/
 *.py[cod]
 *$py.class
 
-# Jupyter
-.ipynb_checkpoints/
-
-# IDEs
+# ============================
+# IDE
+# ============================
 .vscode/
 .idea/
 
-# OS files
+# ============================
+# Jupyter
+# ============================
+.ipynb_checkpoints/
+
+# ============================
+# OS Files
+# ============================
 .DS_Store
 Thumbs.db
 
-# Streamlit cache
+# ============================
+# Streamlit
+# ============================
 .streamlit/secrets.toml
 
+# ============================
+# Evaluation Framework
+# ============================
+.deepeval/
+evaluation/output/
+evaluation/logs/
+
+# ============================
+# Vector Databases
+# ============================
+qdrant_db/
+chroma_db/
+
+# ============================
+# Temporary Files
+# ============================
+temp_uploads/
+
+# ============================
 # Logs
+# ============================
 *.log
 
-# Build artifacts
+# ============================
+# Build Artifacts
+# ============================
 build/
 dist/
 *.egg-info/
